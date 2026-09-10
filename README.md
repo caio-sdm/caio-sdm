@@ -5,9 +5,9 @@
 🌱 &nbsp;I'm learning about Arduino and Raspberry PI.\
 ✍️ &nbsp;In my free time, I pursue 3D Modeling, Game Development and Video Editing as hobbies/side hustles.\
 
-<img alt="Coding Cat" src="./assets/kitten-cat.gif" align="right"/>
-
 ## ⚡ Tech Stack
+
+<img alt="Coding Cat" src="./assets/kitten-cat.gif" align="right"/>
 
 ### 🚀 Languages
 
