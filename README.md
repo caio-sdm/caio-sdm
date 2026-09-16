@@ -30,6 +30,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
+![Gamemaker](https://img.shields.io/badge/gamemaker-black?style=for-the-badge&logo=gamemaker)
 
 ### 💻 Workspace
 
